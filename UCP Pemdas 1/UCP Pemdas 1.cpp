@@ -1,3 +1,9 @@
+//1. Berikan contoh deklarasi variabel. Berikan minimal 3 variabel dengan tipe data yang berbeda : int umur, char nama, float luas
+//2. Berikan contoh minimal satu implementasi dari conditional statement :  if (nilai < rata-rata) {}
+//3. Berikan contoh implementasi dari struct : struct mahasiswa
+//4. Berikan contoh implementasi dari prosedur dan fungsi : void input, int main
+//5. Berikan contoh implementasi dari looping : do while
+
 #include <iostream>
 using namespace std;
 
